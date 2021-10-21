@@ -11,6 +11,7 @@ I'm David, a Problem Solver. I can help you on different fields and various busi
 I'm a experienced Golang back-end developer. In my past career, I focused in CRM & EC industry and have experiences of handling high concurrency situation. I've lead several service refactor projects and devoted to produce readable and reliable code.
 
 What I can help:
+
 - Website development
 - Legacy project refactor
 - Service/project deployment and operation
@@ -19,6 +20,7 @@ What I can help:
 - Digital marketing
 
 Skills:
+
 - Go / JavaScript
 - Familiar with PostgreSQL/MySQL/MongoDB/Redis.
 - Familiar with Gin/gRPC, Protobuf format. Experienced in project with Iris/Beego.

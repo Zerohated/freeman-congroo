@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Welcome! :monocle_face:"
+  main = "Welcome! 🧐"
   sub = " "
 
 [params.main]
