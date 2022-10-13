@@ -26,7 +26,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['experiences']
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
@@ -48,8 +48,7 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  medium = "https://medium.com/"
+  github = "https://github.com/davidchou93"
 
 [params.contact]
   email = "david.chou93@gmail.com"
@@ -66,17 +65,17 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
+  identifier = "experiences"
+  name = "Experiences"
+  title = "Experiences"
+  url = "/experiences/"
   weight = -110
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
+  identifier = "blogs"
+  name = "Posts"
+  title = "Blogs section"
+  url = "/posts/"
   weight = -100
 
 [sitemap]

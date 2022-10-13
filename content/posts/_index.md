@@ -1,4 +1,4 @@
 ---
-title: Post
+title: Posts
 description: 'Posts Section'
 ---
