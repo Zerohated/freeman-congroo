@@ -1,4 +1,4 @@
 ---
 title: Posts
-description: 'Posts Section'
+description: Articles about almost everything
 ---
