@@ -1,4 +1,4 @@
-baseURL: 'https://freeman-congroo.vercel.app/'
+baseURL: 'https://freeman-congroo.netlify.app'
 languageCode: en-us
 title: Freeman Congroo
 theme: PaperMod
